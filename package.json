@@ -1,0 +1,24 @@
+{
+  "name": "Constructor_Hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GuessSet.js",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesroberts442/Constructor_Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesroberts442/Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/charlesroberts442/Constructor_Hangman#readme"
+}
